@@ -1,0 +1,2 @@
+# MiniProject
+Smart curtains
